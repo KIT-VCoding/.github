@@ -46,6 +46,16 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
+| 구분 | 기술 |
+|------|------|
+| Language | TypeScript |
+| Framework | React 19 |
+| Build Tool | Vite |
+| Styling | CSS |
+| Lint | ESLint |
+| Package Manager | Yarn |
+| Deploy | Netlify |
+
 ---
 
 ## 주요 기능
