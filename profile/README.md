@@ -27,7 +27,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 
 | 구분 | 기술 |
@@ -36,7 +35,7 @@
 | Framework | Spring Boot 3.5 |
 | Security | Spring Security 6, JWT (JJWT) |
 | ORM | Spring Data JPA (Hibernate) |
-| Database | H2 (개발), MySQL (운영) |
+| Database | H2 |
 | HTTP Client | Spring WebFlux (Reactor) |
 | AI | Google Gemini API (gemini-2.5-flash) |
 | API Docs | SpringDoc OpenAPI 3.0 (Swagger UI) |
